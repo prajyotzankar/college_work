@@ -1,3 +1,5 @@
+
+#1
 def digit_sum(num):
     num_list = [int(x) for x in list(str(num))]
     return sum(num_list)
@@ -20,6 +22,7 @@ def get_the_num(N):
         return current_num
 """for i in range(20):
     print(get_the_num(i))"""
+
 
 
 def no_of_filters(li_factories):

@@ -1,0 +1,6 @@
+Product_No, Name, Rate, Quantity
+12, soap, 10, 10
+20, toothpaste, 25, 5
+15, oil, 50, 5
+98, Wheat, 30, 10
+52, Rice, 50, 7
