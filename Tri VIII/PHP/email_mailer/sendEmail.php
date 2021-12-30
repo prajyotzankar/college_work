@@ -35,7 +35,7 @@ $mail->isSMTP();                      // Set mailer to use SMTP
 $mail->Host = 'smtp.gmail.com';       // Specify main and backup SMTP servers 
 $mail->SMTPAuth = true;               // Enable SMTP authentication 
 $mail->Username = '1132190399@mitwpu.edu.in';   // SMTP username 
-$mail->Password = 'XiO0Y?&y9o9?Of7*';   // SMTP password 
+$mail->Password = 'paaword';   // SMTP password 
 $mail->SMTPSecure = 'tls';            // Enable TLS encryption, `ssl` also accepted 
 $mail->Port = 587;                    // TCP port to connect to 
 $mail->addAddress($_GET["toEmail"], $_GET["toName"]); 
